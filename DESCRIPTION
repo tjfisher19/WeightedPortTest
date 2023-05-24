@@ -1,6 +1,6 @@
 Package: WeightedPortTest
 Type: Package
-Title: Weighted Portmanteau Tests for Time Series Goodness-of-fit
+Title: Weighted Portmanteau Tests for Time Series Goodness-of-Fit
 Version: 1.1
 Date: 2023-05-23
 Authors@R: c(
@@ -8,7 +8,7 @@ Authors@R: c(
     role = c("aut", "cre"),
     comment = c(ORCID = "0000-0001-5885-7646") ),
     person("Colin M.", "Gallagher", email = "cgallag@g.clemson.edu", role = "aut") )
-Description: This packages contains the Weighted Portmanteau Tests as described
+Description: An implementation of the Weighted Portmanteau Tests described
       in "New Weighted Portmanteau Statistics for Time Series Goodness-of-Fit Testing"
       published by the Journal of the American Statistical Association, Volume 107, 
       Issue 498, pages 777-787, 2012.
